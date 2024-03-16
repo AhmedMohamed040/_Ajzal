@@ -1,0 +1,16 @@
+@import "variables/variables";
+@import "view/view";
+@import "components/components";
+@import "utilities/utilities";
+
+* {
+ font-size: 16px;
+}
+@font-face {
+    font-family: 'Tajawal';
+    src: url('../fonts/Tajawal-Regular.ttf')  format('truetype'),
+}
+html,body {
+    color: rgb(43, 52, 69) ;
+}
+
